@@ -1,0 +1,4 @@
+.eggs/*
+build/*
+mmdet.egg-info/*
+snapshot/*
